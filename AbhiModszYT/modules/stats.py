@@ -8,7 +8,7 @@ from pyrogram.types import Message
 from pyrogram import *
 from pyrogram.types import *
 from config import OWNER_ID
-from AbhiModszYT import dev
+from AbhiModszYT import dev, OWNER
 from AbhiModszYT.database.chats import get_served_chats
 from AbhiModszYT.database.users import get_served_users
 
